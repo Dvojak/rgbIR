@@ -73,5 +73,5 @@ Tento projekt umožňuje ovládat RGB LED pomocí IR ovladače. Můžete nastavi
 - Ověřte, že IR přijímač funguje tím, že tisknete přijímané IR kódy do sériového monitoru.
 - Ujistěte se, že správné kódy pro váš specifický IR ovladač jsou definovány v poli `codes` a pro tlačítka ENTER, Červená, Zelená a Modrá.
 
-## README.md tvořeno za pomocí CHATGPT
+## README.md tvořeno za pomocí ChatGPT
 
